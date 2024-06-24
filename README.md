@@ -36,7 +36,7 @@ Mobile
 ### Links
 
 - Solution URL: [Github Page](https://github.com/LawrenceLCodes/social-links-profile-card)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://lawrencelcodes.github.io/social-links-profile-card/)
 
 ## My process
 
