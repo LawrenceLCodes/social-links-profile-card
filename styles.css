@@ -93,6 +93,7 @@ main {
   .portrait {
     border-radius: 50%;
     height: 100px;
+    object-fit: cover;
     width: 100px;
   }
 
